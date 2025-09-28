@@ -58,7 +58,7 @@ Agriculture, FoodTech & Rural Development
 <ul><li>Limited internet access, Electricity Issue, Low digital Literacy, Resistance to Change </li></ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
+<h3>Benefits of this Idea</h3>
 <ul><li>Helps farmers take critical decisions in their farming business to increase profitability.</li>
 <li>Improved and increased productivity, cost efficiency, and social and cultural benifits.</li></ul>
 
