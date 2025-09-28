@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 28.09.2025
+## Register Number: 25018817
+## Name: Janesha S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,29 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<h3>Smart AI-driven application for small and marginal farmers:</h3>
+
+![alt text](HarvestHub.png)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<h3>Technologies to be used</h3>
+<ul><li>Front-End:- React.js</li>
+<li>Back-End:- Node.js</li>
+<li>Programming Logic:- Javascript</li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>Feasibility of this idea</h3>
+<ul><li>Government Support, Growing Connectivity, Succesful Pilot, Digital Tools in Action</li></ul>
+<h3>Potential challenges and risks</h3>
+<ul><li>Limited internet access, Electricity Issue, Low digital Literacy, Resistance to Change </li></ul>
 
 ## Impact and Benefits
 <h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<ul><li>Helps farmers take critical decisions in their farming business to increase profitability.</li>
+<li>Improved and increased productivity, cost efficiency, and social and cultural benifits.</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<h3>Links of the reference and research work</h3>
+<ul><li>https://www.globalagricentral.com/</li>
+<li>https://www.agrifarming.in/</li>
+</ul>
