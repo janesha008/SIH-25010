@@ -43,7 +43,7 @@ Agriculture, FoodTech & Rural Development
 ## Proposed Solution
 <h3>Smart AI-driven application for small and marginal farmers:</h3>
 
-![alt text](HarvestHub.png)
+![alt text](HarvestHub-1.png)
 
 ## Technical Approach
 <h3>Technologies to be used</h3>
